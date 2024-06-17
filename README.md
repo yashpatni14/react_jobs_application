@@ -1,6 +1,6 @@
 # React + Vite
 
-<img src="public/screen.png" />
+<img src="public/screen.jpg" />
 
 This project uses JSON-Server for a mock backend.
 
